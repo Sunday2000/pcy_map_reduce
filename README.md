@@ -12,10 +12,9 @@ implémenté en MapReduce (Hadoop Streaming) et en Spark.
 | Fichier | Rôle |
 |---|---|
 | `pcy_common.py` | Config (support, buckets) + hash déterministe partagé |
-| `spark_pcy.py` | PCY complet en Spark (un seul script) |
+| `spark_pcy.py` | PCY complet en Spark |
 | `run_spark.sh` | Lancement sur le cluster Docker |
-| `GUIDE_TP4_PCY.md` | Guide pas à pas complet |
-| `data/sales_sample.csv` / `data/items_sample.csv` | Échantillon (réponse connue) |
+| `data/sales_sample.csv` / `data/items_sample.csv` | Échantillon |
 
 ## Démarrage rapide
 
