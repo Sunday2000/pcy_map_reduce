@@ -1,4 +1,4 @@
-# TP4 — Frequent Itemsets (PCY) en MapReduce — Hadoop + Spark
+# TP4 Frequent Itemsets (PCY) en MapReduce — Hadoop + Spark
 
 Recherche des **produits souvent achetés ensemble** (paires fréquentes) dans
 `sales.csv` du dataset ERP Kaggle, avec l'algorithme **PCY (Park–Chen–Yu)**
